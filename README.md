@@ -6,7 +6,7 @@
 
   ##
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas.
+<p align="center">Apaixonada por programação.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
