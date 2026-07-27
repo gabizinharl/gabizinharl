@@ -1,11 +1,19 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+<div> 
+   <a href="https://github.com/gabizinharl"> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcbdb&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffb6c1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+MEU+NOME+É+GABRIELA;Seja+bem-vindo(a)!;+:%29)](https://git.io/typing-svg)
 
-<h3 align="center">Connect with me!</h3>
-<div align="center">
+
+>
+ 
+
+<br>
+<div> 
+
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raissabispo&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
   
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabirl5685@gmail.com")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriela-lima-096405299/)
