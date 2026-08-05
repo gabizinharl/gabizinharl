@@ -12,7 +12,7 @@
 <div> 
 
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabizinharl&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Gabriela's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabizinharl)](https://github.com/gabizinharl)
 <br>
   
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://www.linkedin.com/in/gabriela-lima-096405299/)
